@@ -14,16 +14,16 @@ See my YouTube video for more information.
 [![The source code](https://img.youtube.com/vi/11NMUUlDJmw/0.jpg)](https://youtu.be/11NMUUlDJmw "The source code")
 
 
-And checkout my YouTube channel for other maker projects I have done. 
-Maker: https://www.youtube.com/c/MakerAtPlay
-Coding: https://www.youtube.com/channel/UCUCydzw0QXIrNXi9NYUXgQA
-Woodworking: https://www.youtube.com/channel/UC-z1ccBjpKT2UmrpNh6Ulew
+And checkout my YouTube channel for other maker projects I have done.   
+Maker: https://www.youtube.com/c/MakerAtPlay  
+Coding: https://www.youtube.com/channel/UCUCydzw0QXIrNXi9NYUXgQA  
+Woodworking: https://www.youtube.com/channel/UC-z1ccBjpKT2UmrpNh6Ulew  
 
-Want to support my projects and Diet Dr Pepper addiction?
-https://patreon.com/makeratplay
-https://buymeacoffee.com/makeratplay
-http://MakerAtPlay.com/supportme
-You can get $500 off a Glowforge pro: https://glowforge.us/r/HEHIHWLU
+Want to support my projects and Diet Dr Pepper addiction?  
+https://patreon.com/makeratplay  
+https://buymeacoffee.com/makeratplay  
+http://MakerAtPlay.com/supportme  
+You can get $500 off a Glowforge pro: https://glowforge.us/r/HEHIHWLU  
 
 
 
