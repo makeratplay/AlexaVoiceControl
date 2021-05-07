@@ -26,7 +26,7 @@ PROGMEM const char HUE_USER_JSON_TEMPLATE[] =
     "{"
         "\"success\":"
         "{"
-            "\"usernasme\": \"%s\""
+            "\"username\": \"%s\""
         "}"
     "}"
 "]";
