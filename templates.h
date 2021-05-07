@@ -24,7 +24,7 @@ PROGMEM const char HUE_DESCRIPTION_TEMPLATE[] =
 PROGMEM const char HUE_USER_JSON_TEMPLATE[] = 
 "["
     "{"
-        "\"uccess\":"
+        "\"success\":"
         "{"
             "\"usernasme\": \"%s\""
         "}"
